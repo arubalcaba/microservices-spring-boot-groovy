@@ -9,9 +9,5 @@ class UserRewards {
 	String userName
 	long totalPoints
 	List<PointEvent> pointEvents
-	
-	UserRewards(){
-		
-	}
 
 }
